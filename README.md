@@ -19,25 +19,6 @@ As a computer scientist specializing in networking, I am fascinated by network p
 ### My Stats:
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImanRHT&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ImanRHT&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="45%" />
-</p>
-
-<h2 align="center">Find me on</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/imanghadimi">
-    <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://github.com/iManGHD">
-    <img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/github.svg"/>
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.instagram.com/iman_30a95">
-    <img  alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/instagram.svg"/>
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://twitter.com/iMan_30a95">
-    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
-  </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iManGHD&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iManGHD&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="45%" />
 </p>
