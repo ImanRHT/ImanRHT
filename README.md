@@ -18,8 +18,6 @@ As a computer scientist specializing in networking, I am fascinated by network p
   
 <hr/>
 
-<img align="center" width="1000" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
-
 <hr/>
 
 ### My Stats:
