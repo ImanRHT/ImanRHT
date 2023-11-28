@@ -18,7 +18,6 @@ As a computer scientist specializing in networking, I am fascinated by network p
   
 <hr/>
 
-<hr/>
 
 ### My Stats:
 
