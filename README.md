@@ -1,7 +1,9 @@
 
 ### About Me
 
-
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gr8monk3ys/gr8monk3ys/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 
 ### Skills
 - **General:** Networking, Mobile Edge Computing, Deep Reinforcement Learning
