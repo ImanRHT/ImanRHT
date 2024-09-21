@@ -10,4 +10,4 @@
 - **Data Analysis:** Pandas, NumPy, Matplotlib
 - **Softwares:** Mininet, Ns-3, Flask, Office, Visio
 - **Operating System:** Linux
-- **Tools:** Jupyter, LaTeX, Git, Trello
+- **Tools:** Jupyter, LaTeX, Git
