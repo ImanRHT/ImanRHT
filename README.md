@@ -6,7 +6,7 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&weight=500&duration=2000&pause=3000&color=B82626&width=650&height=100&lines=Hello+my+dear+friend+👋;Discover+My+Open+Source+Contributions)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=500&duration=2000&pause=3000&color=0E0C5A&multiline=true&width=650&height=100&lines=Erfan+Panahi+|+Research+Assistant+;B.Sc.+in+Electrical+Engineering+at+University+of+Tehran;+Signal+Processing+%7C+Wireless+Communications+%7C+Artificial+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=500&duration=2000&pause=3000&color=0E0C5A&multiline=true&width=650&height=100&lines=Iman+Rahmati|+Research+Assistant+;B.Sc.+in+Electrical+Engineering+at+University+of+Tehran;+Signal+Processing+%7C+Wireless+Communications+%7C+Artificial+Intelligence)](https://git.io/typing-svg)
 
 ### About Me
 <p align='justify'>
