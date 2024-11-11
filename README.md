@@ -19,7 +19,7 @@ Currently, I have been working on three main research idea in MEC systems, which
 
 ### My Stats:
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ImanRHT&show_icons=true&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true&bg_color=00000000" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ImanRHT&show_icons=true&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true&bg_color=00000000&stroke=FFFFFF&text_color=FFFFFF" />
 
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ImanRHT&theme=react&background=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true&stroke=FFFFFF&text_color=FFFFFF" with=45%/>
 </p>
