@@ -6,6 +6,7 @@ DiscoverMyOpen-sourceContributions&fontSize=32&animation=fadeIn&fontAlignY=30
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&weight=500&duration=2000&pause=3000&color=B82626&width=650&height=100&lines=Hello+my+dear+friend+👋;Discover+My+Open+Source+Contributions)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=500&duration=2000&pause=3000&color=0E0C5A&multiline=true&width=650&height=100&lines=Iman+Rahmati;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=500&duration=2000&pause=3000&color=0E0C5A&multiline=true&width=650&height=100&lines=Research+Assistant+at+EdgeAI+Laboratory;)](https://git.io/typing-svg)  
 
 ### About Me
 <p align='justify'>
