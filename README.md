@@ -2,7 +2,7 @@
 
 ### About Me
 
-  As a computer scientist specializing in networking, my primary research focus is directed toward applying AI/ML-driven solutions, such as Deep Reinforcement Learning (DRL), Federated Learning, and Meta Learning, to address the dynamic nature and complexities of Multi-Agent Systems in Wireless Communication Networks. Specifically, I developed [QECO: A QoE-Oriented Computation Offloading Algorithm based on Deep Reinforcement Learning for Mobile Edge Computing](https://arxiv.org/pdf/2311.02525.pdf), which leverages Deep Q-Network (DQN) and LSTM to enable distributed decision-making in uncertain MEC environments.
+  As a computer scientist specializing in networking, my primary research focus is directed toward applying AI/ML-driven solutions, such as Deep Reinforcement Learning (DRL), Federated Learning, and Meta Learning, to address the dynamic nature and complexities of Multi-Agent Systems in Wireless Communication Networks. Specifically, I developed [QECO](https://arxiv.org/pdf/2311.02525.pdf): A QoE-Oriented Computation Offloading Algorithm for Mobile Edge Computing (MEC) based on DRL, which leverages Deep Q-Network (DQN) and LSTM to enable distributed decision-making in uncertain MEC environments.
 
 
 Currently, I have been working on three main research idea in Mobile Edge Computing (MEC) systems, which are as follows:
