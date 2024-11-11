@@ -20,5 +20,5 @@ Currently, I have been working on three main research idea in MEC systems, which
 ### My Stats:
 <p align="center">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ImanRHT&show_icons=true&theme=github&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true&bg_color=00000000" />
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ImanRHT&theme=github&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true&bg_color=00000000" with=45%/>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ImanRHT&theme=react&background=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" with=45%/>
 </p>
