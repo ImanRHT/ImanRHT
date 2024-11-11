@@ -1,12 +1,11 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=DiscoverMyOpen-sourceContributions&fontSize=32&animation=fadeIn&fontAlignY=30">
-    I'm 
-     <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
-    iMan
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=">
 </div>
 
+DiscoverMyOpen-sourceContributions&fontSize=32&animation=fadeIn&fontAlignY=30
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&weight=500&duration=2000&pause=3000&color=B82626&width=650&height=100&lines=Hello+my+dear+friend+👋;Discover+My+Open+Source+Contributions)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=500&duration=2000&pause=3000&color=0E0C5A&multiline=true&width=650&height=100&lines=Iman+Rahmati|+Research+Assistant+;B.Sc.+in+Electrical+Engineering+at+University+of+Tehran;+Signal+Processing+%7C+Wireless+Communications+%7C+Artificial+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=500&duration=2000&pause=3000&color=0E0C5A&multiline=true&width=650&height=100&lines=Iman+Rahmati;)](https://git.io/typing-svg)
 
 ### About Me
 <p align='justify'>
@@ -30,3 +29,4 @@ Currently, I serve as a Research Engineer in the Edge AI Laboratory at SUT i
 - **Softwares:** Mininet, Ns-3, Flask, Office, Visio
 - **Operating System:** Linux
 - **Tools:** Jupyter, LaTeX, Git
++Research+Assistant+;B.Sc.+in+Electrical+Engineering+at+University+of+Tehran;+Signal+Processing+%7C+Wireless+Communications+%7C+Artificial+Intelligence
