@@ -23,7 +23,7 @@ Currently, I have been working on three main research idea in MEC systems, which
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ImanRHT&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" />
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ImanRHT&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ImanRHT&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" with=45%/>
 
 </p>
 
@@ -31,6 +31,5 @@ Currently, I have been working on three main research idea in MEC systems, which
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
 
 </div>
