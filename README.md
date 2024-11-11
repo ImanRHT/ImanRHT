@@ -7,7 +7,6 @@ Currently, I have been working on three main research idea in MEC systems, which
 - **Multi-Agent DRL for Cooperative Task Offloading in Partially Observable MEC Environment** [[Idea]](https://ImanRHT.github.io/assets/MultiAgentDRL.pdf)
 - **Federated DRL for Continuous Improving Intradependente Task Offloading in MEC Network** [[Idea]](https://ImanRHT.github.io/assets/FederatedDRL.pdf)
 - **Meta-RL for Optimized Task Scheduling in Heterogeneous MEC** [[Idea]](https://ImanRHT.github.io/assets/MetaRL.pdf)
-#
 
 ### Skills 
 - **General:** Networking, MEC, DRL, Federated Learning
@@ -25,10 +24,3 @@ Currently, I have been working on three main research idea in MEC systems, which
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ImanRHT&theme=react&background=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true&stroke=81D8F7&text_color=81D8F7" with=45%/>
 </p>
 
-#
-
-<div align="center">
-
-### Glad to see you here! 🙂
-
-</div>
