@@ -4,9 +4,9 @@ As a computer scientist specializing in networking, my research interests are di
 
 Currently, I serve as a Research Engineer in the Edge AI Laboratory at SUT in the Department of Electrical Engineering under the supervision of Prof. Hamed Shah-Mansouri. I have been working on three main research idea, which are as follows:
 
--  Multi-Agent Deep Reinforcement Learning for Cooperative Task Offloading in Partially Observable Mobile Edge Computing Environment
-- **Programming Languages:** Python, R, Bash, C++
-- **Machine Learning:** TensorFlow, PyTorch, Scikit-learn
+- Multi-Agent Deep Reinforcement Learning for Cooperative Task Offloading in Partially Observable Mobile Edge Computing Environment
+- Federated Deep Reinforcement Learning for Continuous Improving Intradependente Task Offloading in Mobile Edge Computing Network
+- Meta-Reinforcement Learning for Optimized Task Scheduling in Heterogeneous Edge Computing Systems
 
 
 
