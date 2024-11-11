@@ -22,4 +22,3 @@ Currently, I serve as a Research Engineer in the Edge AI Laboratory at SUT i
 - **Softwares:** Mininet, Ns-3, Flask, Office, Visio
 - **Operating System:** Linux
 - **Tools:** Jupyter, LaTeX, Git
-+Research+Assistant+;B.Sc.+in+Electrical+Engineering+at+University+of+Tehran;+Signal+Processing+%7C+Wireless+Communications+%7C+Artificial+Intelligence
