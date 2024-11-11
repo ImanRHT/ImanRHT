@@ -7,7 +7,7 @@
 
 Currently, I have been working on three main research idea in Mobile Edge Computing (MEC) systems, which are as follows:
 
-- **Multi-Agent DRL for Cooperative Task Offloading in Partially Observable MEC Environment** [Idea](https://ImanRHT.github.io/assets/MultiAgentDRL.pdf)
+- [Idea](https://ImanRHT.github.io/assets/MultiAgentDRL.pdf): **Multi-Agent DRL for Cooperative Task Offloading in Partially Observable MEC Environment** 
 - **Federated DRL for Continuous Improving Intradependente Task Offloading in MEC Network** [Idea](https://ImanRHT.github.io/assets/MultiAgentDRL.pdf)
 - **Meta-RL for Optimized Task Scheduling in Heterogeneous MEC** [Idea](https://ImanRHT.github.io/assets/MultiAgentDRL.pdf)
 
