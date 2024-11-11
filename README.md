@@ -1,6 +1,10 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=DiscoverMyOpen-sourceContributions&fontSize=32&animation=fadeIn&fontAlignY=30">
+    I'm 
+     <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
+    iMan
 </div>
+
 ### About Me
 <p align='justify'>
 As a computer scientist specializing in networking, my research interests are directed toward applying AI/ML-driven solutions, such as Deep Reinforcement Learning (DRL), Federated Learning, and Meta Learning to address the dynamic challenges and complexities of Multi-Agent Systems in Wireless Communication Networks. My primary research focus lies in the area of Network Performance Optimization, particularly, I delved deeply into Computation Offloading in Mobile Edge Computing (MEC) systems, where dynamic nature of network adversely affect the system's performance. I had a chance to serve as a Research Assistant in the Performance and Dependability Laboratory in the Department of Computer Science at SUT, under the supervision of Prof. Ali Movaghar. During which, I formulated the long-term QoE maximization problem in MEC as a Markov Decision Process (MDP) and designed a DRL-based algorithm that utilizes Deep Q-Network (DQN) and LSTM to provide distributed decisions in an uncertain MEC environment. This effort resulted in the development of my contribution, called QECO.  
