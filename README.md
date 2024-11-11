@@ -8,7 +8,7 @@ DiscoverMyOpen-sourceContributions&fontSize=32&animation=fadeIn&fontAlignY=30
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=500&duration=2000&pause=3000&color=0E0C5A&multiline=true&width=650&height=100&lines=Iman+Rahmati;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=500&duration=2000&pause=3000&color=0E0C5A&multiline=true&width=650&height=100&lines=Research+Assistant+at+EdgeAI+Laboratory;)](https://git.io/typing-svg)  
 
-<p align="center" style="font-family: Arial, sans-serif; font-size: 24px; color: #1a237e;">
+<p align="center" style="font-family: Arial, sans-serif; font-size: 32px; color: #1a237e;">
     <strong>Research Assistant at EdgeAI Laboratory</strong>
 </p>
 
