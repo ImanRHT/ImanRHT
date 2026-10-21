@@ -4,7 +4,8 @@
 
 I am a researcher working at the intersection of Reinforcement Learning, Edge Intelligence, and Wireless Networking, focusing on adaptive resource allocation and distributed decision-making in dynamic, resource-constrained Mobile Edge Computing (MEC) systems.
 
-I developed [[QECO]](https://github.com/ImanRHT/QECO), a Deep Reinforcement Learning (DRL)-based computation offloading algorithm published in IEEE Transactions on Network Science and Engineering (2025). QECO combines Double DQN, a dueling network architecture, and LSTM-based workload modeling to capture temporal workload dynamics and optimize long-term Quality of Experience (QoE) under task deadlines and energy constraints. Simulations demonstrated up to 37% higher QoE and faster convergence than baseline approaches.[[Paper]](https://ieeexplore.ieee.org/document/10946841)
+
+I developed [**QECO**](https://github.com/ImanRHT/QECO), a Deep Reinforcement Learning (DRL)-based computation offloading algorithm published in *IEEE Transactions on Network Science and Engineering* (2025). Built on Dueling Double DQN (D3QN), QECO integrates LSTM-based workload modeling to capture temporal workload dynamics and optimize long-term QoE under task deadline and energy constraints. Simulation results demonstrated up to 37% higher QoE and faster convergence than baseline approaches. [**Paper**](https://ieeexplore.ieee.org/document/10946841)
 
 My current research investigates Multi-Agent Reinforcement Learning (MARL) for collaborative computation offloading in MEC, focusing on partial observability, agent heterogeneity, and non-stationary system dynamics. I formulate interdependent offloading decisions as Decentralized Partially Observable Markov Decision Processes (Dec-POMDPs) and explore Centralized Training with Decentralized Execution (CTDE) to develop coordinated policies for distributed resource management.
 
