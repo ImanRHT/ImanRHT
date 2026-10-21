@@ -12,7 +12,7 @@ My current research investigates Multi-Agent Reinforcement Learning (MARL) for c
 
 ### Technical Skills
 
-- **Research Methods:** Reinforcement Learning, Stochastic Systems Modeling, Sequential Decision-Making, Markov Decision Processes (MDPs), Queueing Theory, Simulation, Performance Evaluation, Resource Allocation and Optimization, Experimental Design and Benchmarking
+- **Research Methods:** Reinforcement Learning, Stochastic Systems Modeling, Sequential Decision-Making, MDPs, Queueing Theory, Simulation, Performance Evaluation, Resource Allocation and Optimization, Experimental Design and Benchmarking
 - **Programming & Machine Learning:** Python, R, C++, SQL, Bash, PyTorch, TensorFlow, Keras, Scikit-learn
 - **Systems & Tools:** Linux, Git, NS-3, Mininet, NumPy, Pandas, Matplotlib, Jupyter, Flask, LaTeX
 #
